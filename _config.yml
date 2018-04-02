@@ -1,3 +1,4 @@
 markdown: redcarpet
 baseurl: /ds-statistics
 exclude: ['README.md']
+theme: jekyll-theme-merlot
